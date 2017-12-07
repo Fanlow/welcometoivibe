@@ -70,9 +70,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://fanlow.com/ivibetheexperience",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
