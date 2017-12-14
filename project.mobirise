@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-06_1938",
+    "name": "CeCe Main Site ",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -26,7 +26,12 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 4,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.5.2",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -78,14 +83,13 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ivibe-logo-4-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/ivibe-logo-7-copy-600x462.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "http://fanlow.com/cecethevibeologist/",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
